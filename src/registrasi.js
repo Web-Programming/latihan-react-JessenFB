@@ -14,7 +14,7 @@ import React from "react";
                 `);
                 console.log(`
                 nama : ${nama},
-                email : ${email},
+                email :  ${email},
                 nomor : ${hp}
                     `);
                 
@@ -22,4 +22,4 @@ import React from "react";
 
     };
 
-return Registrasi;
+export default Registrasi;
