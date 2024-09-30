@@ -1,4 +1,5 @@
 import React from "react"; 
+
  function Registrasi() { 
     const [email, setEmail] = React.useState(""); 
     const [nama, setNama]  = React.useState("");
