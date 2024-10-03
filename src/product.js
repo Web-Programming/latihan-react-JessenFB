@@ -19,7 +19,7 @@ function Product() {
     // ));
     // return <div>{displayProduct}</div>;
     return (
-        <table class="table table-hover">
+        <table class="table table-hover" border="5">
             <thead>
                 <tr>
                     <th>ID</th>

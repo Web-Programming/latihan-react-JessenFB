@@ -29,9 +29,6 @@ function App() {
           <li class="nav-item">
           <NavLink to="/registrasi"className="navbar-brand" exact = "true">Registrasi</NavLink>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
       </ul>
     </div>
   </div>
