@@ -5,7 +5,7 @@ export default function Page () {
  <div>
     <h1>This Is Dashboard page</h1>
 
-    <Link href={"dashboard/users/Jessen Fallik Bemi"}>Jessen Fallik Bemi</Link>
+    <Link href={"dashboard/users/Jessen Fallik Bemi/2327250065"}>Jessen Fallik Bemi</Link>
 </div>
   );
 }
