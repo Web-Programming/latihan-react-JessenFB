@@ -9,8 +9,5 @@ export async function POST() {
 }
  ];
  
-  // return Response.json(data)
-  return (
-    <div> Hello This is POST</div>
-  )
+  return Response.json(data)
 }
