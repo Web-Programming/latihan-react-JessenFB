@@ -23,6 +23,11 @@ export default function DashboardLayout({
                         </Link>
                     </li>
                     <li>
+                        <Link href="/tugas" className="text-white hover:text-blue-200">
+                        Pages
+                        </Link>
+                    </li>
+                    <li>
                         <Link href="/dashboard/setting" className="text-white hover:text-blue-200">
                         Setting
                         </Link>
